@@ -112,6 +112,9 @@ Software testing is a structured process that helps ensure the quality and relia
 - 💽 **Volume Testing**
 - 🖥️ **Compatibility Testing**
 
+  [Learn more about Acceptance Testing](./performancetesting.md)
+
+
 ---
 
 ### ⚙️ **Other Testing**
@@ -123,6 +126,9 @@ Software testing is a structured process that helps ensure the quality and relia
 - ✔️ **Compliance Testing**
 - 📑 **Documentation Testing**
 - 🌐 **Interoperability Testing**
+
+  [Learn more about Acceptance Testing](./othertesting.md)
+
 
 ---
 # ![Repo Maps](https://img.shields.io/badge/Repo%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge)
